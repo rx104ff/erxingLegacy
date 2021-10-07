@@ -1,0 +1,30 @@
+img.igdf {
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+div.copyright {
+    color: white;
+    text-align: center;
+}
+
+div.footer {
+    background: rgb(63,63,70);
+    bottom: 0;
+    height: 240px;
+}
+
+div.footer-main {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+p.p-footer {
+    color: white;
+}
+
+div.col-footer {
+    padding-top: 30px;
+}

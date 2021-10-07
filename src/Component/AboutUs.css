@@ -1,0 +1,17 @@
+#header {
+    color: black;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+
+img.image-map{
+    max-width:250px; 
+}
+
+p.about-us {
+    font-size: 20px;
+}

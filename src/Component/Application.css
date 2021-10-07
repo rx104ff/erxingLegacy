@@ -1,0 +1,13 @@
+div.button-application {
+    width: 50%;
+    margin: 0 auto;
+    width: 300px;
+}
+
+p.application {
+    font-size: 22px;
+}
+
+ol.application {
+    font-size: 20px;
+}
